@@ -113,6 +113,9 @@ To contribute to this template:
 - sphinx-rtd-theme
 - Other dependencies listed in `requirements.txt`
 
+### Screenshots
+![1772286682927](image/README/1772286682927.png)
+
 ## License
 
 See LICENSE file for details.
