@@ -86,7 +86,7 @@ make clean
 
 ## Publishing to GitHub Pages
 
-1. Push your changes to the `master` branch
+1. Push your changes to the `main` branch
 2. The generated `docs/` folder is automatically served as your GitHub Pages site
 3. Access your documentation at: `https://rajacsp.github.io/github-book-template/`
 

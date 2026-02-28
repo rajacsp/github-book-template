@@ -6,7 +6,7 @@
 # reference: 
 #           
 # Theano repository: https://github.com/Theano/Theano
-# conf.py: https://github.com/Theano/Theano/blob/master/doc/conf.py 
+# conf.py: https://github.com/Theano/Theano/blob/main/doc/conf.py 
 ##############################################################################
 # theano documentation build configuration file, created by
 # sphinx-quickstart on Tue Oct  7 16:34:06 2008.
@@ -139,10 +139,10 @@ html_context = {
     # Set the following variables to generate the resulting github URL for each page. 
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}
     #/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
-    #https://github.com/rajacsp/github-book-template/blob/master/doc/index.rst
+    #https://github.com/rajacsp/github-book-template/blob/main/doc/index.rst
     'github_user': 'rajacsp',
     'github_repo': 'github-book-template',
-    'github_version': 'master/doc/' ,
+    'github_version': 'main/doc/' ,
 }
 
 # {% if display_github %}
@@ -239,7 +239,7 @@ html_use_smartypants = True
 def linkcode_resolve(domain, info):
     def find_source():
         # try to find the file and line number, based on code from numpy:
-        # https://github.com/numpy/numpy/blob/master/doc/source/conf.py#L286
+        # https://github.com/numpy/numpy/blob/main/doc/source/conf.py#L286
         obj = sys.modules[info['module']]
         for part in info['fullname'].split('.'):
             obj = getattr(obj, part)
@@ -260,7 +260,7 @@ def linkcode_resolve(domain, info):
     # tag = subprocess.Popen(['git', 'rev-parse', 'HEAD'],
     #                        stdout=subprocess.PIPE,
     #                        universal_newlines=True).communicate()[0][:-1]
-    return "https://github.com/rajacsp/github-book-template/blob/master/%s" % (filename)
+    return "https://github.com/rajacsp/github-book-template/blob/main/%s" % (filename)
 
 # Options for LaTeX output
 # ------------------------

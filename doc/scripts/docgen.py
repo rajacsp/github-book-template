@@ -5,7 +5,7 @@
 # reference: 
 #           
 # Theano repository: https://github.com/Theano/Theano
-# docgen.py: https://github.com/Theano/Theano/blob/master/doc/scripts/docgen.py
+# docgen.py: https://github.com/Theano/Theano/blob/main/doc/scripts/docgen.py
 ##############################################################################
 from __future__ import print_function
 import sys
