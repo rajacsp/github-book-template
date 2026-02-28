@@ -1,14 +1,14 @@
-# Python Learning
+# GitHub Book Template
 
 A comprehensive guide to mastering Python programming from fundamentals to advanced concepts.
 
 ## Website
 
-https://rajacsp.github.io/python-learning/
+https://rajacsp.github.io/github-book-template/
 
 ## About
 
-Python Learning is an educational resource designed to help beginners and intermediate programmers develop strong Python skills. This documentation covers essential programming concepts, best practices, and practical examples to accelerate your learning journey.
+GitHub Book Template is an educational resource designed to help beginners and intermediate programmers develop strong Python skills. This documentation covers essential programming concepts, best practices, and practical examples to accelerate your learning journey.
 
 ## Contents
 
@@ -17,6 +17,10 @@ Python Learning is an educational resource designed to help beginners and interm
   - Python Variables and Literals
   - Python Type Conversion
   - Python Basic Input and Output
+- **Chapter 3: Python Flow Control**
+  - Conditional Statements
+  - Loops and Iteration
+  - Control Flow Patterns
 
 ## Getting Started
 
