@@ -6,13 +6,13 @@ Preface
 
 .. admonition:: Welcome
 
-	Python Learning is a comprehensive guide to mastering Python programming from fundamentals to advanced concepts.
+	GitHub Book Template is a comprehensive guide to mastering Python programming from fundamentals to advanced concepts.
 
 
-About Python Learning
-+++++++++++++++++++++
+About GitHub Book Template
+++++++++++++++++++++++++++
 
-Python Learning is an educational resource designed to help beginners and intermediate programmers develop strong Python skills. This documentation covers essential programming concepts, best practices, and practical examples to accelerate your learning journey.
+GitHub Book Template is an educational resource designed to help beginners and intermediate programmers develop strong Python skills. This documentation covers essential programming concepts, best practices, and practical examples to accelerate your learning journey.
 
 Whether you're just starting your programming career or looking to deepen your Python expertise, this guide provides structured lessons with clear explanations and hands-on code examples.
 
@@ -42,7 +42,7 @@ Each chapter builds upon previous concepts, so it's recommended to follow them s
 Getting Started
 +++++++++++++++
 
-To get the most out of Python Learning:
+To get the most out of GitHub Book Template:
 
 1. **Install Python** - Download the latest version from `python.org <https://www.python.org>`_
 2. **Set up an editor** - Use VS Code, PyCharm, or any text editor you prefer

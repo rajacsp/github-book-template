@@ -1,6 +1,6 @@
 .. _index:
 
-Welcome to **Python Learning**! This comprehensive guide will help you master Python programming from fundamentals to advanced concepts.
+Welcome to **GitHub Book Template**! This comprehensive guide will help you master Python programming from fundamentals to advanced concepts.
 
 ========
 Contents
